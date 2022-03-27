@@ -4604,6 +4604,11 @@ picocolors@^1.0.0:
   resolved "https://registry.yarnpkg.com/picocolors/-/picocolors-1.0.0.tgz#cb5bdc74ff3f51892236eaf79d68bc44564ab81c"
   integrity sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==
 
+picocontainer2@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/picocontainer2/-/picocontainer2-0.0.7.tgz#7a4c8b1f9e363fbe4e0a7f2b03a28114d8764870"
+  integrity sha512-lDZktMEXryh3ReYPvDqaEccLOnnSpnBrQ6/SYiuM51kQnzf5G1a1m539rwczu6Rw+7D6zBo5pUoqaZ8Dd8iXEQ==
+
 picomatch@^2.0.4, picomatch@^2.2.1, picomatch@^2.2.3:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.3.1.tgz#3ba3833733646d9d3e4995946c1365a67fb07a42"
